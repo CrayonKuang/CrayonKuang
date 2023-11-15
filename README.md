@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrayonKuang and I am currently a student studying Economics at Singapore Management Univerisity(SMU).
+- 👋 Hi, I’m @CrayonKuang and I am currently a student studying Economics and Quantitative Finance at Singapore Management Univerisity(SMU).
 - 👀 I’m interested in the field of data science and analytics.
 - 🌱 I’m currently learning how to use powerBI to create interactive dashboards and how to implement the different machine learning algorithms using python.
 - 💞️ I’m looking to collaborate on Kaggle competitions!!
