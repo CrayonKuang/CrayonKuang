@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrayonKuangali and I am currently a student studying Economics and Quantitative Finance at Singapore Management Univerisity(SMU).
+- 👋 Hi, I am currently a student studying Economics and Quantitative Finance at Singapore Management Univerisity(SMU).
 
 <!---
 CrayonKuang/CrayonKuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
